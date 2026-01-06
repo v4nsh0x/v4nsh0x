@@ -1,6 +1,6 @@
 # Hi, I'm Vansh Saxena 👋
 
-![Profile Banner](https://img.shields.io/badge/Featured_in-NASA-blue?style=for-the-badge) ![Hall of Fame](https://img.shields.io/badge/Featured_in-Lenovo-red?style=for-the-badge) ![Buggrounds](https://img.shields.io/badge/Buggrounds-CyberTools-green?style=for-the-badge)
+![Profile Banner](https://img.shields.io/badge/Featured_in-NASA-blue?style=for-the-badge) ![Hall of Fame](https://img.shields.io/badge/Featured_in-Lenovo-red?style=for-the-badge)
 
 I'm an **Ethical Hacker & Bug Bounty Hunter** passionate about cybersecurity, building tools, and exploring AI.
 
@@ -26,7 +26,7 @@ I'm an **Ethical Hacker & Bug Bounty Hunter** passionate about cybersecurity, bu
 ---
 
 ## 🚀 Projects & Cyber Tools
-- 🛡️ **Buggrounds Tools** – Tools I create for vulnerability testing and cyber automation  
+- 🛡️ **Cyber Tools** – Tools I create for vulnerability testing and cyber automation  
 - 💻 **Automation Scripts** – Scripts to simplify security testing  
 - 🤖 **AI Experiments** – Generative AI-based projects and experiments  
 

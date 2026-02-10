@@ -35,6 +35,7 @@ I'm an **Ethical Hacker & Bug Bounty Hunter** passionate about cybersecurity, bu
 ---
 
 ## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=v4nsh0x&theme=dark)](https://git.io/streak-stats)
 ![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v4nsh0x&show_icons=true&theme=radical)
 
 ---

@@ -25,6 +25,8 @@ Cybersecurity, vulnerability research, web hacking, and low-level systems.
 * Exploit development tooling
 * Open-source security research
 
+
+[![v4nsh0x's GitHub stats](https://github-stats-extended.vercel.app/api?username=v4nsh0x&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=303030)](https://github.com/stats-organization/github-stats-extended)
 ### Contact
 
 <a href="https://github.com/v4nsh0x">

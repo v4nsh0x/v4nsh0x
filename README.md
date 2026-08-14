@@ -1,50 +1,39 @@
-# Hi, I'm Vansh Saxena 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=Hi%2C+I'm+v4nsh0x+\(Vansh+Saxena\).)](https://git.io/typing-svg)
 
-![Profile Banner](https://img.shields.io/badge/Featured_in-NASA-blue?style=for-the-badge) ![Hall of Fame](https://img.shields.io/badge/Featured_in-Lenovo-red?style=for-the-badge)
+**Security Researcher · Bug Bounty Hunter**
 
-I'm an **Ethical Hacker & Bug Bounty Hunter** passionate about cybersecurity, building tools, and exploring AI.
+Cybersecurity, vulnerability research, web hacking, and low-level systems.
 
----
+[![NASA](https://img.shields.io/badge/Featured%20in-NASA-0b3d91?style=flat-square\&logo=nasa\&logoColor=white)](#)
+[![Lenovo](https://img.shields.io/badge/Featured%20in-Lenovo-e2231a?style=flat-square\&logo=lenovo\&logoColor=white)](#)
 
-## 🛠️ Skills & Tech Stack
+### Focus
 
-### Programming & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MERN](https://img.shields.io/badge/-MERN-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+`Web Security` · `Bug Bounty` · `Exploit Development`
+`C` · `x86-64 Assembly` · `Reverse Engineering`
+`Binary Exploitation` · `OSINT` · `Security Research`
 
-### Cybersecurity & Tools
-![Bug Bounty](https://img.shields.io/badge/-BugBounty-orange?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/-Ethical_Hacking-red?style=for-the-badge)
-![Automation](https://img.shields.io/badge/-Automation-blue?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/-Generative_AI-purple?style=for-the-badge)
+### Tools
 
----
+`Burp Suite` · `Ghidra` · `GDB` · `Nmap` · `Nuclei` · `ffuf`
+`Python` · `C` · `C++` · `Go` · `Linux`
 
-## 🚀 Projects & Cyber Tools
-- 🛡️ **Cyber Tools** – Tools I create for vulnerability testing and cyber automation  
-- 💻 **Automation Scripts** – Scripts to simplify security testing  
-- 🤖 **AI Experiments** – Generative AI-based projects and experiments  
+### Projects
 
-*(More projects coming soon!)*
+* Security research & vulnerability tooling
+* Web security automation
+* Exploit development tooling
+* Open-source security research
 
----
+### Contact
 
-## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=v4nsh0x&theme=dark)](https://git.io/streak-stats)
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v4nsh0x&show_icons=true&theme=radical)
+<a href="https://github.com/v4nsh0x">
+  <img src="https://img.shields.io/badge/GitHub-v4nsh0x-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:v4nsh0x@proton.me">
+  <img src="https://img.shields.io/badge/Email-v4nsh0x%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
+</a>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-saxena-5042b4378/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/v4nsh0x)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v4nsh0x@proton.me)
-
----
-
-> "I love building cyber tools and exploring security challenges." 🔥
+> Break. Analyze. Understand.
